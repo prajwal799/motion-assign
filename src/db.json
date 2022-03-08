@@ -1,0 +1,20 @@
+{
+    "login" : [
+         {
+             "email" : "prajwalgoyal@gmail.com",
+             "password" : "12345"
+         },
+         {
+            "email" : "prajwalgoyal1999@gmail.com",
+            "password" : "54321"
+        },
+        {
+            "email" : "vinay@gmail.com",
+            "password" : "vinay12@"
+        },
+        {
+           "email" : "aman@gmail.com",
+           "password" : "12aman@3"
+       }
+    ]
+}
